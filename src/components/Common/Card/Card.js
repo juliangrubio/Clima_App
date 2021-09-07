@@ -11,7 +11,7 @@ const Card = () => {
     return (
         <CardStyled>
 
-            <ImgCard src={`http://openweathermap.org/img/w/${clima.icon}.png`} alt="Icon" />
+            <ImgCard src={`https://openweathermap.org/img/w/${clima.icon}.png`} alt="Icon" />
             <Temp>{clima.temp}°</Temp>
 
             <ExtraContainer>
