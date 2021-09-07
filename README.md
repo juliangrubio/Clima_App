@@ -1,13 +1,13 @@
 
-## Available Scripts
+## Clima App
 
-In the project directory, you can run:
+En el proyecto del directorio, ejecutar la siguiente linea de comandos:
 
 ### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Funcionamiento:
+
+En el input puedes buscar tu ciudad para ver los datos climáticos. Si quieres puedes verlos en tiempo real,
+activando el checkbox luego de buscar la ciudad.
 
