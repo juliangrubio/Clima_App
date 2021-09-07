@@ -48,7 +48,7 @@ const Footer = () => {
                         checked={info.loop}
                         onChange={handleOnChange}
                     />
-                    En vivo (http request cada 10s)
+                    En vivo (llamada api cada 10s)
                 </LabelStyled>
             }
 
